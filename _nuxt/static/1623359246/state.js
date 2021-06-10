@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1623359246",layout:"soon",error:a,serverRendered:true,routePath:b,config:{_app:{basePath:b,assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"f17b3796"}},_img:{"/_ipx/images/cintatic-logo.png":"\u002F_nuxt\u002Fimage\u002F335c8a.png"}}}(null,"\u002F"));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/index-official", {data:[{_img:{"/_ipx/images/058-hiker-man-monochrome.svg?f=webp":"\u002F_nuxt\u002Fimage\u002F034299.webp","/_ipx/images/026-drawkit-server-woman-monochrome.svg?f=webp":"\u002F_nuxt\u002Fimage\u002Ff8393c.webp"}}],fetch:{},mutations:void 0});
